@@ -1,6 +1,7 @@
-# Create a person class with readable first_name and last_name attributes 
+# Create a person class with readable first_name and last_name attributes
 # and a method to calculate its full_name.
-
+class Person
+end
 
 
 # Driver code - don't touch anything below this line.
